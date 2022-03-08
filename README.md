@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Arseni Khatsuk
 #### I'm a beginner iOS Developer and Student of Yanka Kupala State University of Grodno
 
-Skills: Swift / SwiftUI / UIKit / GIT 
+##Skills:
+* Swift 
+* SwiftUI 
+* UIKit 
+* GIT 
 
 
 
