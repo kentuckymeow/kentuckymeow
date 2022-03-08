@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Arseni Khatsuk
-#### I'm a beginner iOS Developer and Student of Yanka Kupala State University of Grodno
+# Hi there 👋, I'm Arseni Khatsuk
+ I'm a beginner iOS Developer and Student of Yanka Kupala State University of Grodno
 
-##Skills:
+## Skills:
 * Swift 
 * SwiftUI 
 * UIKit 
