@@ -8,6 +8,7 @@
 * GIT 
 
 
+## You can contact me:
 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arseni-khatsuk-592a45233/)
 &nbsp;&nbsp;&nbsp;&nbsp;
