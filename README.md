@@ -7,6 +7,7 @@
 * UIKit 
 * GIT 
 * Firebase
+* CocoaPods
 
 
 ## You can contact me:
