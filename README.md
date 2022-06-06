@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='40'>](mailto:khatsuk007@gmail.com) 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://ru.wikipedia.org/wiki/Telegram#/media/Файл:Telegram_2019_Logo.svg' alt='telegram' height='40'>](https://t.me/Kentuckymeow) 
+[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ATelegram_logo.svg&psig=AOvVaw3dwJFPjz_7IDJeNNk4Snqu&ust=1654627734221000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDKhOW-mfgCFQAAAAAdAAAAABAD' alt='telegram' height='40'>](https://t.me/Kentuckymeow) 
 
 
 
