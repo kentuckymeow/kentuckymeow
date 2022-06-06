@@ -6,12 +6,16 @@
 * SwiftUI 
 * UIKit 
 * GIT 
+* Firebase
 
 
 ## You can contact me:
 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arseni-khatsuk-592a45233/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='40'>](mailto:khatsuk007@gmail.com)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='40'>](mailto:khatsuk007@gmail.com) 
+[<img src='https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg?uselang=ru' alt='telegram' height='40'>](https://t.me/Kentuckymeow) 
+
+
 
 
